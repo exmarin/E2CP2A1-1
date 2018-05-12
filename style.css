@@ -1,0 +1,75 @@
+#navegacion{
+  list-style: none;
+  padding-right: 700px;
+  float: right;
+  color: white;
+  padding-right:100px;
+}
+li{
+  float: left;
+  padding-right: 60px;
+
+}
+.limpiar{
+  clear: both;
+}
+#logo{
+  width: 200px;
+  position: absolute;
+  left: 20px;
+  top: 20px;
+
+
+}
+.navbar{
+  background-image: url('images/bg.jpeg');
+  text-align: center;
+  color: white;
+  padding-bottom: 70px;
+}
+
+
+#comienza{
+  background-color: #00A2FF;
+}
+#info{
+  background-color: #0DE107;
+}
+.informacion{
+  text-align: center;
+}
+#happy{
+      height: 400px
+}
+.inscribete{
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-width: 1px;
+  text-align: center;
+  background-color: #F1F4F0;
+}
+#contacto{
+  list-style: none;
+  float: left;
+  color: black;
+  padding-left: 450px;
+  margin-right: 30px;
+
+}
+
+.contacto{
+  padding-bottom: 50px;
+}
+#suscribete{
+
+  padding-top: 15px;
+}
+#inscripcion{
+  background-color: #03BBC1;
+}
+.footer{
+  background-color: #232323;
+  color: white;
+  padding: 10px 0px 10px 200px;
+  letter-spacing: 2px;
+}
